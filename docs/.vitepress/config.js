@@ -17,13 +17,6 @@ export default {
             { text: 'Hosting', link: '/guide/host' },
             { text: 'Betting', link: '/guide/betting' }
           ]
-        },
-        {
-          text: 'Core Concepts',
-          items: [
-            { text: 'Basic Usage', link: '/guide/basic-usage' },
-            { text: 'Advanced Features', link: '/guide/advanced-features' }
-          ]
         }
       ],
     },
