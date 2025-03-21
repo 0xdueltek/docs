@@ -1,22 +1,20 @@
-# What is Dueltek?
+# What is DU3L73K?
 
-Dueltek is a powerful and flexible platform designed for managing and facilitating duels or competitive matches. Whether you're building a game, a competition platform, or any system that requires head-to-head matchups, Dueltek provides the tools and infrastructure you need.
+DU3L73K (Dueltek) is a livestreaming gaming platform designed to facilitate and settle PVP duels or competitive matches. Whether you're a web2 streamer, a web3 gamer, or a community that organizes head-to-head matchups, DU3L73K provides the tools you need to create a market around your event and bring everyone together.
 
 ## Key Features
 
-- **Matchmaking System**: Efficiently pair participants based on skill level, preferences, or other criteria
-- **Real-time Updates**: Get instant notifications and updates on duel progress
-- **Customizable Rules**: Define your own rule sets and victory conditions
-- **Statistics Tracking**: Comprehensive statistics and history for all duels
-- **User Management**: Easy-to-use interfaces for managing participants
+- **Bring your own Duels**: DU3L73K lets you publish a livestream where other participants can bet on the outcome.
+- **Self Hosted**: Participants organize their own matches and are responsible for submitting a valid stream.
+- **Optimistic Settlement**: Duel outcomes are assumed to be truthful unless disputed within 48hrs.
+- **Duel Management**: Easy-to-use interfaces for managing your events.
 
-## Why Choose Dueltek?
+## Why Choose DU3L73K?
 
-Dueltek was built with performance, flexibility, and user experience in mind. It's designed to be:
+DU3L73K was built for the web3 community and gamers everywhere. It's designed to be:
 
-- **Fast**: Optimized for quick response times and minimal latency
-- **Reliable**: Built with robust error handling and recovery mechanisms
-- **Extensible**: Easy to extend with plugins and custom modules
-- **Developer-friendly**: Well-documented API and intuitive interfaces
+- **Free**: We take no fees or revenue. All duel incentives are self-contanied.
+- **Community Aligned**: Every action is designed to return value to users.
+- **Positive Sum**: Hosts, Fighters, Bettors, and the community win together.
 
 Ready to get started? Check out our [Getting Started](/guide/getting-started) guide! 
