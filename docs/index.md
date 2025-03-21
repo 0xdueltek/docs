@@ -4,7 +4,7 @@ layout: home
 hero:
   name: DU3L73K
   text: 
-  tagline: Livestreamed<br>Degenerative <br>Visceral PVP Gaming Duels
+  tagline: Livestreamed<br>Degenerative<br>Visceral<br>PVP Gaming Duels
   image:
     src: /logo.png
     alt: Dueltek logo
@@ -13,20 +13,17 @@ hero:
       text: Get Started
       link: /guide/
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/your-username/dueltek
+      text: Launch App
+      link: https://app.dueltek
 
 features:
   - icon: ⚡️
-    title: Fast & Efficient
-    details: Built with performance in mind to handle duels quickly and efficiently
-  - icon: 🛠️
-    title: Flexible Configuration
-    details: Customize every aspect of the dueling experience to fit your needs
-  - icon: 🔒
-    title: Secure & Reliable
-    details: Robust security measures to ensure fair and reliable dueling
-  - icon: 📱
-    title: Cross-Platform
-    details: Works seamlessly across different devices and platforms
+    title: Community Built
+    details: Created for the $BE community, bringing maximum returns to users.
+  - icon: ⚔️
+    title: Duel Anyone
+    details: Host your own PVP duels against someone else, have your fans participate. 
+  - icon: 🎮
+    title: Any Game
+    details: Just bring your livestream and a clear winner.
 --- 

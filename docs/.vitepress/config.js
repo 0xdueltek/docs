@@ -1,13 +1,11 @@
 export default {
-  title: 'Dueltek Documentation',
+  title: 'DU3L73K',
   description: 'Official documentation for the Dueltek project',
   themeConfig: {
     logo: '/logo.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Guide', link: '/guide/' },
-      { text: 'API', link: '/api/' },
-      { text: 'GitHub', link: 'https://github.com/your-username/dueltek' }
     ],
     sidebar: {
       '/guide/': [
@@ -27,23 +25,14 @@ export default {
           ]
         }
       ],
-      '/api/': [
-        {
-          text: 'API Reference',
-          items: [
-            { text: 'Overview', link: '/api/' },
-            { text: 'Core API', link: '/api/core' },
-            { text: 'Extensions', link: '/api/extensions' }
-          ]
-        }
-      ]
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/your-username/dueltek' }
+      { icon: 'twitter', link: 'https://x.com/du3l73K/' },
+      { icon: 'telegram', link: 'https://t.me/BE_Base' }
     ],
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2023-present Dueltek Team'
+      copyright: 'Copyright © 2023-present DU3L73K'
     }
   }
 } 
