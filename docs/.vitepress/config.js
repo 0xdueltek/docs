@@ -13,8 +13,8 @@ export default {
           text: 'Introduction',
           items: [
             { text: 'What is Dueltek?', link: '/guide/' },
-            { text: 'Getting Started', link: '/guide/getting-started' },
-            { text: 'Installation', link: '/guide/installation' }
+            { text: 'Hosting', link: '/guide/host' },
+            { text: 'Betting', link: '/guide/betting' }
           ]
         },
         {

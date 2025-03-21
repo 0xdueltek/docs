@@ -1,6 +1,6 @@
 # What is DU3L73K?
 
-DU3L73K (Dueltek) is a livestreaming gaming platform designed to facilitate and settle PVP duels or competitive matches. Whether you're a web2 streamer, a web3 gamer, or a community that organizes head-to-head matchups, DU3L73K provides the tools you need to create a market around your event and bring everyone together.
+DU3L73K (Dueltek) is a livestreaming gaming platform rooted in PVP, designed to facilitate gaming duels and competitive matches. Whether you're a web2 streamer, a web3 gamer, or a community that organizes head-to-head matchups, DU3L73K provides the tools you need to create a market around your event and bring everyone together to spectate.
 
 ## Key Features
 
@@ -9,12 +9,15 @@ DU3L73K (Dueltek) is a livestreaming gaming platform designed to facilitate and 
 - **Optimistic Settlement**: Duel outcomes are assumed to be truthful unless disputed within 48hrs.
 - **Duel Management**: Easy-to-use interfaces for managing your events.
 
-## Why Choose DU3L73K?
+## Why use DU3L73K?
 
-DU3L73K was built for the web3 community and gamers everywhere. It's designed to be:
+DU3L73K was built for gamers and the web3 community at-large. It is designed to be:
 
-- **Free**: We take no fees or revenue. All duel incentives are self-contanied.
-- **Community Aligned**: Every action is designed to return value to users.
-- **Positive Sum**: Hosts, Fighters, Bettors, and the community win together.
+- **Free**: We take no fees or revenue.
+- **Self-Perpetuating**: Duels contain incentive mechanisms that benefit all particpants.
+- **Positive Sum**: Hosts, Fighters, Bettors, and the community are incentivised to grow every event.
+- **Community Aligned**: Every action is designed to return value to users and $BE.
 
-Ready to get started? Check out our [Getting Started](/guide/getting-started) guide! 
+Are you a streamer? Check out our [Host](/guide/host) guide!
+
+Ready to watch some duels? Check out our [Betting](/guide/betting) guide!
