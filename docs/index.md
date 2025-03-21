@@ -19,11 +19,11 @@ hero:
 features:
   - icon: ⚡️
     title: Community Built
-    details: Created for the $BE community, bringing maximum returns to users.
+    details: Designed to bring maximum return to our users.
   - icon: ⚔️
     title: Duel Anyone
-    details: Host your own PVP duels against someone else, have your fans participate. 
+    details: Host your own PVP duels against someone else, and have your fans participate. 
   - icon: 🎮
     title: Any Game
-    details: Just bring your livestream and a clear winner.
+    details: We support any game, just bring a livestream and your best fighters.
 --- 
