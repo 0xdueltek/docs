@@ -9,7 +9,7 @@ DU3L73K (Dueltek) is a livestreaming gaming platform rooted in PVP, designed to 
 - **Optimistic Settlement**: Duel outcomes are assumed to be truthful unless disputed within 48hrs.
 - **Duel Management**: Easy-to-use interfaces for managing your events.
 
-## Why use DU3L73K?
+## Why DU3L73K?
 
 DU3L73K was built for gamers and the web3 community at-large. It is designed to be:
 
