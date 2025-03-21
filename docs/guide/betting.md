@@ -26,4 +26,4 @@ Watch duels, bet on fighters, chat with users, throw donations, and claim your r
 
 - **Winner's Share**: If your fighter wins, you'll receive your original bet back (minus fees) plus a proportional share of the losing side's bets.
 
-![Duel Reward Structure](reward_structure.png)
+![Duel Reward Structure](/guide/reward_structure.png)

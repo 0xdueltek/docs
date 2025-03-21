@@ -17,7 +17,7 @@ To successfully host a duel, you'll require the following:
 - **Set Timeline**: Specify when your event will go live.
 - **Clear Winner**: Make it clear who the winner is during your livestream, and submit the answer from the management panel.
 
-![Duel creation form showing fields for opponent address, game selection, stake amount, stream URL, and description](create_duel.png)
+![Duel creation form showing fields for opponent address, game selection, stake amount, stream URL, and description](/guide/create_duel.png)
 
 Once you start your stream via Twitch or Youtube, your stream will automatically be broadcasted on DU3L73K.
 
@@ -25,7 +25,7 @@ Once you start your stream via Twitch or Youtube, your stream will automatically
 
 At the end of every duel, you should record yourself settling the event live from your broadcast, by using the management panel. After you submit the winner, a 48hr dispute period begins.
 
-![Duel management panel and setling a duel](manage_duel.png)
+![Duel management panel and setling a duel](/guide/manage_duel.png)
 
 ## Disputes
 

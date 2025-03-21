@@ -1,4 +1,5 @@
 export default {
+  base: '/docs/',
   title: 'DU3L73K',
   description: 'Official documentation for the Dueltek project',
   themeConfig: {
