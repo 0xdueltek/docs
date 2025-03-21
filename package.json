@@ -10,10 +10,14 @@
     "build": "vitepress build docs",
     "preview": "vitepress preview docs"
   },
-  "keywords": ["dueltek", "documentation"],
+  "keywords": [
+    "dueltek",
+    "documentation"
+  ],
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "vitepress": "^1.0.0-rc.40",
     "vue": "^3.3.4"
   }
