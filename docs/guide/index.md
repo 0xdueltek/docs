@@ -13,8 +13,7 @@ DU3L73K (Dueltek) is a livestreaming gaming platform rooted in PVP, designed to 
 
 DU3L73K was built for gamers and the web3 community at-large. It is designed to be:
 
-- **Free**: We take no fees or revenue.
-- **Self-Perpetuating**: Duels contain incentive mechanisms that benefit all particpants.
+- **Self-Contained**: Every duel has incentives and mechanisms that benefit all particpants.
 - **Positive Sum**: Hosts, Fighters, Bettors, and the community are incentivised to grow every event.
 - **Community Aligned**: Every action is designed to return value to users and $BE.
 
